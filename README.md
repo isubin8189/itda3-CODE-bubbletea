@@ -1,0 +1,1 @@
+# ITDA_project_ocr
