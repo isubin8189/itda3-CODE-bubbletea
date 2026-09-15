@@ -6,6 +6,8 @@
 
 `additional_images.zip`에는 상품 이미지 100장이 포함되어 있습니다. **수집 출처는 집, 올리브영, 편의점**이며, 라벨은 이미지에 표시된 소비기한을 `YYYY-MM-DD` 형식의 연·월·일로 기록합니다. 확장자를 제외한 6자리 숫자 파일명을 `image_id`로 사용합니다.
 
+라벨 이름 : 'additional_answers.csv' 파일 내에 존재
+
 google drive : https://drive.google.com/drive/folders/1QCfGgR7nrNhpi4rBDEm1qZ2EtHY6uh_Y?usp=drive_link 
 
 ## Pipeline
