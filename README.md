@@ -1,7 +1,10 @@
-[README.md](https://github.com/user-attachments/files/32247224/README.md)
 # CODE-bubbletea: OCR 기반 소비기한 추출
 
 제3회 ITDA 연합학술제 1차 예선 제출 프로젝트입니다. `predict.ipynb`는 상품 이미지에서 소비기한 날짜를 추출하고, 결과를 `submission.csv` 형식으로 저장합니다.
+
+## Custom data
+
+`custom_data.zip`에는 집, 올리브영, 편의점에서 수집한 상품 이미지 100장이 포함되어 있습니다. 라벨은 이미지에 표시된 소비기한을 `YYYY-MM-DD` 형식의 연·월·일로 기록하며, 확장자를 제외한 6자리 숫자 파일명을 `image_id`로 사용합니다.
 
 ## Pipeline
 
